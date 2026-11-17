@@ -4,7 +4,7 @@
    PHASE = 1 -> only the Dashboard works (other buttons show "coming soon")
    PHASE = 2 -> everything works
    To unlock the full website later, change 1 to 2. */
-const PHASE = 1;
+const PHASE = 2;
 
 /* ========== 1. STUDENT DATASET ========== */
 const students = [
